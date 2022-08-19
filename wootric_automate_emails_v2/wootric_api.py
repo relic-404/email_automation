@@ -58,14 +58,3 @@ for survey in view_data:
 
 
 print(view_data)
-
-
-
-
-
-
-"""
-//r = requests.post(endpoint, headers=headers, json=json_payload)
-print(r)
-print(rows[1][4])
-"""
